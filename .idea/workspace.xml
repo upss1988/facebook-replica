@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ee0d507-e1fd-4e88-b929-855adfe45f77" name="Default Changelist" comment="" />
+    <list default="true" id="0ee0d507-e1fd-4e88-b929-855adfe45f77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Resources/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Resources/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2019_12_22_222446_create_posts_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -20,6 +31,9 @@
         <option value="Vue Single File Component" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -128,13 +142,18 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1VLJefLeHqysc9Etqe0EQsXb11T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -144,12 +163,22 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHPUnit.PostToTimelineTest.a_user_can_post_a_text_post">
+    <configuration name="PostToTimelineTest.a_user_can_post_a_text_post" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\PostToTimelineTest" file="$PROJECT_DIR$/tests/Feature/PostToTimelineTest.php" method="a_user_can_post_a_text_post" scope="Method" />
+      <method v="2" />
+    </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.PostToTimelineTest.a_user_can_post_a_text_post" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -174,13 +203,23 @@
       <option name="presentableId" value="Default" />
       <updated>1577026538460</updated>
       <workItem from="1577026542492" duration="3952000" />
+      <workItem from="1577030733840" duration="2172000" />
+      <workItem from="1577050543226" duration="1839000" />
+      <workItem from="1577053223626" duration="3464000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-2258" y="-619" width="690" height="798" key="#PostToTimelineTest.a_user_can_post_a_text_post" timestamp="1577052093099">
+      <screen x="-2560" y="-748" width="2560" height="1050" />
+    </state>
+    <state x="-2258" y="-619" width="690" height="798" key="#PostToTimelineTest.a_user_can_post_a_text_post/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1577052093099" />
     <state x="-2158" y="-447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577028516769">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
@@ -201,6 +240,10 @@
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state width="1287" height="228" key="GridCell.Tab.0.right/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1577030527344" />
+    <state x="-2419" y="-578" key="SettingsEditor" timestamp="1577054280750">
+      <screen x="-2560" y="-748" width="2560" height="1050" />
+    </state>
+    <state x="-2419" y="-578" key="SettingsEditor/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1577054280750" />
     <state x="-2201" y="-611" width="627" height="837" key="find.popup" timestamp="1577029546366">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
@@ -209,9 +252,9 @@
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state x="-2232" y="-113" key="run.anything.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1577029559227" />
-    <state x="-2225" y="-461" width="672" height="678" key="search.everywhere.popup" timestamp="1577030423938">
+    <state x="-2225" y="-461" width="672" height="678" key="search.everywhere.popup" timestamp="1577056469554">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
-    <state x="-2225" y="-461" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1577030423938" />
+    <state x="-2225" y="-461" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1577056469554" />
   </component>
 </project>
