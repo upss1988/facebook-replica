@@ -7,10 +7,10 @@
 <script>
     import Nav from './Nav';
     export default {
-        name: "App"
+        name: "App",
 
         components: {
-            Nav
+            Nav,
         }
     }
 </script>

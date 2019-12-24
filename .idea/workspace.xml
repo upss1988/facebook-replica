@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ee0d507-e1fd-4e88-b929-855adfe45f77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/js/components/Nav.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Nav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Nav.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +157,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager" selected="PHPUnit.PostToTimelineTest.a_user_can_post_a_text_post">
     <configuration name="PostToTimelineTest.a_user_can_post_a_text_post" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
@@ -201,7 +201,8 @@
       <workItem from="1577050543226" duration="1839000" />
       <workItem from="1577053223626" duration="3464000" />
       <workItem from="1577056961067" duration="69000" />
-      <workItem from="1577087840277" duration="3875000" />
+      <workItem from="1577087840277" duration="3933000" />
+      <workItem from="1577178212444" duration="2249000" />
     </task>
     <servers />
   </component>
@@ -244,10 +245,10 @@
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
     <state x="-2086" y="-301" key="NewPhpFileDialog/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1577090111972" />
-    <state x="-2419" y="-578" key="SettingsEditor" timestamp="1577054280750">
+    <state x="-2419" y="-578" key="SettingsEditor" timestamp="1577179314804">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
-    <state x="-2419" y="-578" key="SettingsEditor/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1577054280750" />
+    <state x="-2419" y="-578" key="SettingsEditor/0.0.1366.738/-2560.-748.2560.1050@-2560.-748.2560.1050" timestamp="1577179314804" />
     <state x="-2201" y="-611" width="627" height="837" key="find.popup" timestamp="1577029546366">
       <screen x="-2560" y="-748" width="2560" height="1050" />
     </state>
